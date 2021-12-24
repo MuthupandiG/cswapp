@@ -1,0 +1,17 @@
+.container { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.font-size18 {
+    font-size: 18px;
+}
+
+.height-100vh {
+    height: 100vh;
+}
+
+.height-inherit {
+    height: inherit;
+}

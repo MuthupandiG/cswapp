@@ -1,0 +1,10 @@
+.table-conatiner { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.margin-30 {
+    margin: 30px;
+}

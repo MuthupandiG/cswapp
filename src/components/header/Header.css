@@ -1,0 +1,28 @@
+.header-container {
+    background-color: #011323;
+    height: 68px;
+    width: 100%;
+    padding: 3px 50px;
+    color: #FFFFFF ;
+}
+
+.app-header-menu {
+    border-radius: 5px;
+    margin: 1rem 0px;
+    background-color: #41464b70;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .app-header-menu:hover {
+      opacity: 0.8;
+      color: #fff;
+  }
+
+  .app-header-menu.active {
+    background-color: #fff !important;
+    color: #011323 !important;
+  }

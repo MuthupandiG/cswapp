@@ -1,0 +1,12 @@
+.container { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.not-found-text {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
